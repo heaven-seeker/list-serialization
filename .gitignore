@@ -1,0 +1,14 @@
+*.exe
+*.out
+*.o
+.idea/
+outlet.out
+build/
+
+generate_tests.py
+check.txt
+inlet.in
+outlet.in
+outlet.bin
+
+Testing/
